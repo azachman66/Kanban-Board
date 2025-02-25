@@ -5,7 +5,7 @@
 
 This is a Kanban board application that requires user authentication to access. Once you log in, you are able to see and create tickets to modify the Kanban board.
 
-[Render deployment](https://candidate-search-ofr2.onrender.com)
+[Render deployment](https://kanban-board-28hg.onrender.com)
 
 ## Table of Contents
   - [Installation](#installation)
